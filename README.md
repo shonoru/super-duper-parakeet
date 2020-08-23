@@ -1,2 +1,3 @@
-# super-duper-parakeet
-Thought essays template generator
+# Thought essays template generator
+
+For https://github.com/shonoru/thought-essays project
